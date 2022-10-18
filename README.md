@@ -1,3 +1,6 @@
 # freecodecampcourse
 
-hallo World!
+
+hallo dunia!
+
+this note for my code!
